@@ -1,3 +1,90 @@
 body {
-	background-color: green;
+	background-image: url(Obama-corgi.jpg);
+}
+.yellow {
+	background-color: yellow;
+	padding: 3px;
+	border-radius: 15px;
+	margin-top: -10px;
+	border-color: purple;
+	border-style: groove;
+	color: purple;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+table#table {
+	margin-left:515px;
+	margin-bottom: 20px;
+	background-color: purple;
+	border-style: groove;
+	border-color: yellow;
+	border-radius: 10px;
+	font-family: "comic sans",cursive,sans-serif;
+	color: yellow;
+}
+h1 {
+	font-family: "Impact", charcoal, sans-serif;
+	margin: 30px;
+	margin-left: 480px;
+	margin-right: 450px;
+	color: yellow;
+	background-color: purple;
+	border-style: solid;
+	padding: 4px;
+}
+h2 {
+	font-family: "Impact", charcoal, sans-serif;
+	margin: 30px;
+	margin-left: 0px;
+	color: yellow;
+	color: yellow;
+	background-color: purple;
+	border-style: solid;
+	padding: 4px;
+
+}
+div#rankings {
+	background-color: yellow;
+	padding: 5px;
+	border-radius: 20px;
+	margin-top: 25px;
+	border-color: purple;
+	border-style: groove;
+	color: purple;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-right: 1000px;
+}
+#homeintro {
+	margin-left: 1000px;
+	background-color: yellow;
+	padding: 5px;
+	border-radius: 20px;
+	border-color: purple;
+	border-style: groove;
+	color: purple;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-top: 50px;
+	margin-bottom: -130px;
+}
+p.yellow{
+	margin-top: 20px;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+a {
+	background-color: #00FF00;
+	margin-top: 0px;
+	color: pink;
+	margin-left: 570px;
+}
+a:visited {
+	color: blue;
+}
+p#explanation {
+	margin-top: 225px;
+	background-color: yellow;
+	border-radius: 20px;
+	border-color: purple;
+	border-style: groove;
+	color: purple;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	padding: 5px;
 }
