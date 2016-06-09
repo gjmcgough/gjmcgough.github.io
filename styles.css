@@ -134,11 +134,11 @@ button {
 	margin-left: 500px;
 }
 img#back {
-	height: 300px;
-	width: 425px;
-	margin-left: 750px;
-	margin-bottom: 5px;
-	margin-top: -115px;
+	height: 350px;
+	width: 525px;
+	margin-left: 700px;
+	margin-bottom: -10px;
+	margin-top: -140px;
 	border-style: groove;
 	border-color: yellow;
 }
