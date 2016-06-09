@@ -1,8 +1,8 @@
 body {
-	background-image: url(Obama-corgi.jpg);
+	background-color: #00ffff;
 }
 .yellow {
-	background-color: yellow;
+	background-color: #ff9999;
 	padding: 3px;
 	border-radius: 15px;
 	margin-top: -10px;
@@ -30,13 +30,12 @@ h1 {
 	margin-left: 0px;
 	color: yellow;
 	background-color: purple;
-	border-style: solid;
 	padding: 4px;
 }
 h2 {
 	font-family: "Impact", charcoal, sans-serif;
 	margin: 0px;
-	margin-top: -20px;
+	margin-top: 0px;
 	margin-left: 0px;
 	color: yellow;
 	background-color: purple;
@@ -44,16 +43,17 @@ h2 {
 	padding: 4px;
 }
 div#rankings {
-	background-color: yellow;
+	background-color: #ff9999;
 	padding: 5px;
 	border-radius: 20px;
-	margin-top: 150px;
 	border-color: purple;
 	border-style: groove;
 	color: purple;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	margin-left: 1000px;
-	margin-bottom: 100px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	margin-right: 600px;
 }
 #homeintro {
 	margin-left: 0px;
@@ -72,22 +72,22 @@ p.yellow{
 	width: 50%;
 }
 a {
-	background-color: #00FF00;
-	margin-top: 0px;
-	color: pink;
-	margin-left: 50%;
+	margin-top: 10px;
+	color: yellow;
 	position: relative;
-	margin-bottom: -50px;
+	margin-bottom: 30px;
+	text-decoration: none;
+	font-family: "Tahoma", Geneva, sans-serif
 }
 a:visited {
 	color: blue;
 }
 a:hover {
-	color: yellow;
+	color: white;
 }
 p#explanation {
 	margin-top: 0px;
-	background-color: yellow;
+	background-color: #ff9999;
 	border-radius: 20px;
 	border-color: purple;
 	border-style: groove;
@@ -129,4 +129,29 @@ p#nuts {
 button {
 	margin-left: 210px;
 	margin-top: 5px;
+}
+#butts{
+	margin-left: 500px;
+}
+img#back {
+	height: 300px;
+	width: 425px;
+	margin-left: 750px;
+	margin-bottom: 5px;
+	margin-top: -115px;
+	border-style: groove;
+	border-color: yellow;
+}
+img#sleepy {
+	height: 200px;
+	width: 405px;
+	margin-left: 130px;
+	margin-bottom: 5px;
+	margin-top: -190px;
+	border-style: groove;
+	border-color: yellow;
+}
+#home {
+	margin-top: 30px;
+	margin-left: 600px;
 }
