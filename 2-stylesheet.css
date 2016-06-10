@@ -34,6 +34,30 @@ a:hover {
 	font-family: "trebuchet ms";
 }
 
+#rankings{
+	height: 1000%;
+	float: left;
+	width: 10%;
+}
+
 .wrapper h3 {
-	
+	margin: 0px 0px 0px 0px;
+	margin-bottom: 5px
+}
+
+.wrapper img {
+	display: block;
+	float: left;
+	height: 300px;
+	width: 400px;
+	margin: 0px 0px 10px 10px;
+}
+
+.wrapper p{
+	float:	left;
+}
+
+.wrapper p img {
+	height: 100px;
+	width: 200px;
 }
