@@ -34,15 +34,15 @@ a:hover {
 	font-family: "trebuchet ms";
 }
 
-#rankings{
-	height: 1000%;
+div.left-column{
+	height: 500px;
 	float: left;
 	width: 10%;
 }
 
 .wrapper h3 {
 	margin: 0px 0px 0px 0px;
-	margin-bottom: 5px
+	margin-bottom: 5px;
 }
 
 .wrapper img {
@@ -54,10 +54,12 @@ a:hover {
 }
 
 .wrapper p{
-	float:	left;
+	float: right;
+
 }
 
 .wrapper p img {
 	height: 100px;
 	width: 200px;
+	float: right;
 }
